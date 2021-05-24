@@ -131,7 +131,7 @@ Tomato_Late_blight = """
 Plant resistant cultivars when available.
 Remove volunteers from the garden prior to planting and space plants far enough apart to allow for plenty of air circulation.
 Water in the early morning hours, or use soaker hoses, to give plants time to dry out during the day — avoid overhead irrigation.
-Destroy all tomato and potato debris after harvest.
+Destroy all tomato and potato debris after harvest
 """
 Tomato_Leaf_Mold = """
 \nFungicides : 
